@@ -1,0 +1,13 @@
+,Variable,VIF,Assessment
+5,distance_to_centre_sq,11.488154775160545,high (>10)
+4,distance_to_centre,11.461572215253346,high (>10)
+6,distance_to_station,1.8557102577007223,acceptable (<5)
+8,ln_reviews,1.7435315711206403,acceptable (<5)
+10,reviews_per_month,1.5699359237869839,acceptable (<5)
+3,accommodates,1.521580525398875,acceptable (<5)
+1,bathrooms_numeric,1.4108830087876678,acceptable (<5)
+9,host_tenure_years,1.2818051730362363,acceptable (<5)
+2,amenities_count,1.2016071496447072,acceptable (<5)
+11,minimum_nights,1.1286256124793115,acceptable (<5)
+7,review_scores_rating,1.0968815875829057,acceptable (<5)
+12,availability_365,1.0440669371820337,acceptable (<5)

@@ -1,0 +1,15 @@
+,Hypothesis,Variable,Expected,Coefficient,p-value,% effect,Verdict
+0,H1a,accommodates,+,0.12011,1.45e-187,12.762,Supported
+1,H1b,bathrooms_numeric,+,0.1071,1.55e-47,11.305,Supported
+2,H1c,amenities_count,+,0.00185,3.33e-08,0.185,Supported
+3,H1d,air_conditioning,+,0.18321,3.14e-43,20.106,Supported
+4,H1e,C(room_type)[T.Private room],-,-0.4166,0,-34.072,Supported
+5,H2a,distance_to_centre,-,-0.09344,2.61e-123,-8.921,Supported
+6,H2b,distance_to_station,-,-0.02523,4.92e-07,-2.491,Supported
+7,H2c,distance_to_centre:accommodates,-,-0.0006,0.0167,-0.06,Supported
+8,H3a,superhost,+,0.07385,4.84e-20,7.665,Supported
+9,H3b,review_scores_rating,+,0.07217,2.07e-34,7.484,Supported
+10,H3c,ln_reviews,-,-0.05854,7.64e-109,-5.686,Supported
+11,H3d,host_tenure_years,+,0.00609,5.63e-10,0.611,Supported
+12,H3e,is_professional_host,+,-0.01335,0.0328,-1.326,Contradicted
+13,H4,XGBoost vs OLS,lower RMSE,16.715,bootstrap CI,12.54,Supported

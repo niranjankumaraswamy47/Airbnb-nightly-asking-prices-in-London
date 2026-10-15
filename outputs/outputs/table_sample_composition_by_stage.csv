@@ -1,0 +1,9 @@
+Stage,N,Rows Removed,% Entire home,% Private room,Mean price
+Raw listings,92638,0,66.3,33.3,
+After removing duplicate ids,92638,0,66.3,33.3,
+After parsing price,62240,30398,67.7,31.9,271.47
+After winsorising price (1/99 pct),62240,0,67.7,31.9,244.44
+After activity filter,62240,0,67.7,31.9,244.44
+After minimum_nights <= 7,58872,3368,67.1,32.4,244.87
+After room type filter,58583,289,67.5,32.5,245.41
+"Regression sample (>=1 review, complete cases)",46725,11858,68.5,31.5,236.57

@@ -1,0 +1,16 @@
+Feature,Coefficient,Effect %,Effect GBP/night,p (Model 4),p (Model 5)
+Private room (vs entire home),-0.4166,-34.07,-61.67,0.0000***,0.0000***
+One additional guest accommodated,0.1201,12.76,23.1,0.0000***,0.0000***
+One additional bathroom,0.1071,11.3,20.46,0.0000***,0.0000***
+Shared rather than private bathroom,-0.2443,-21.68,-39.23,0.0000***,0.0000***
+One additional amenity,0.0019,0.19,0.34,0.0000***,0.0000***
+Air conditioning,0.1832,20.11,36.39,0.0000***,0.0000***
+Dishwasher,0.1391,14.92,27.01,0.0000***,0.0000***
+Balcony or patio,0.0424,4.33,7.83,0.0000***,0.0000***
+Superhost status,0.0739,7.66,13.87,0.0000***,0.0000***
+One point higher review score,0.0722,7.48,13.55,0.0000***,0.0000***
+One unit higher ln(1+reviews),-0.0585,-5.69,-10.29,0.0000***,0.0000***
+One additional year of host tenure,0.0061,0.61,1.11,0.0000***,0.0036***
+Multi-listing (professional) host,-0.0134,-1.33,-2.4,0.0328**,0.0063***
+One km further from centre (at 6.0 km),-0.0619,-6.0,-10.86,0.0000***,0.0000***
+One km further from nearest station,-0.0252,-2.49,-4.51,0.0000***,0.0000***
